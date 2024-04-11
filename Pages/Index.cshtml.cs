@@ -22,11 +22,12 @@ namespace StoryCreator.Pages
 
         public void OnPost()
         {
+            // Testing with MIT Azure Open AI
             //string endpoint = "https://mitai.openai.azure.com/";
             //string key = "e67e1ba43c3244d5bd618fbc2a8f282c";
             //string deploymentName = "turb035mitai";
 
-            // Testing with Adam AIAzure
+            // Testing with Adam AI Azure
             string endpoint = "https://graiatestingdev001.openai.azure.com/";
             string key = "4c017db0c3ef4d9398f8556e8307e72c";
             string deploymentName = "aiaturbo35";
