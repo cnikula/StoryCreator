@@ -29,7 +29,7 @@ namespace StoryCreator.Pages
 
             // Testing with Adam AI Azure
             string endpoint = "https://graiatestingdev001.openai.azure.com/";
-            string key = "4c017db0c3ef4d9398f8556e8307e72c";
+            string key = "AI API ENDPOIT GOS HERE";
             string deploymentName = "aiaturbo35";
 
             OpenAIClient client = new(new Uri(endpoint), new AzureKeyCredential(key));

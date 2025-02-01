@@ -1,7 +1,5 @@
 # story-generator-main
 
-How to Code this App, see https://www.youtube.com/watch?v=HzgqgA2qv-I
-
 What you will need
 Azure Account
 Access to Azure Open AI
